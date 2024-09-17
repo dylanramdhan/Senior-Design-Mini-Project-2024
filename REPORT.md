@@ -9,7 +9,6 @@ In this part of the assignment, we were tasked with having to
 
 [code](./EXERCISES/light.py)
 
-<<<<<<< HEAD
 =======
 [code](./Senior-Design-Mini-Project-2024/assignment/ex1/light.py)
 >>>>>>> 45445270e75d2ab9855ff11b57cec80df2d5bc7a
