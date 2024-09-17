@@ -83,6 +83,7 @@ def scorer(t: list[int | None]) -> None:
     write_json(filename, data)
         
     try:
+        # Send data to Firebase via POST request
         res = urequests.post('https://ec463-miniproject-9d0c7-default-rtdb.firebaseio.com/test.json', 
                              data=ujson.dumps(data))
 
@@ -96,6 +97,7 @@ def scorer(t: list[int | None]) -> None:
 
 if __name__ == "__main__":
     led = Pin("LED", Pin.OUT)
+    #we changed the pin from 16 to 15 so that the button blinked slower
     button = Pin(15, Pin.IN, Pin.PULL_UP)
 
     t: list[int | None] = []
