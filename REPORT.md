@@ -10,6 +10,10 @@ In this part of the assignment, we were tasked with having to
 
 [code](./EXERCISES/light.py)
 
+<<<<<<< HEAD
+=======
+[code](./Senior-Design-Mini-Project-2024/assignment/ex1/light.py)
+>>>>>>> 45445270e75d2ab9855ff11b57cec80df2d5bc7a
 
 ## Part 2: Playing Songs
 
@@ -19,4 +23,8 @@ In this part of the assignment, we were tasked with having to
 
 ## Part 3: Cloud Server/Light Game
 
+<<<<<<< HEAD
 [code](./ex3/exercise_game.py)
+=======
+[code](./ex3)
+>>>>>>> 45445270e75d2ab9855ff11b57cec80df2d5bc7a
