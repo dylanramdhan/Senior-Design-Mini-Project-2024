@@ -30,6 +30,7 @@ https://drive.google.com/file/d/1DQhKs3dD_ExZEUriKSZgzxsMsopx0taU/view?usp=shari
 
 
 <<<<<<< HEAD
+EXERCISES/exercise_game.py
 [code](./ex3/exercise_game.py)
 =======
 [code](./ex3)
