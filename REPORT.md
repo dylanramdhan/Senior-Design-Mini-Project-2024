@@ -26,7 +26,6 @@ https://drive.google.com/file/d/1DQhKs3dD_ExZEUriKSZgzxsMsopx0taU/view?usp=shari
 ## Part 3: Cloud Server/Light Game
 
 
-<<<<<<< HEAD
 
 [code](./EXERCISES/exercise_game.py)
 
