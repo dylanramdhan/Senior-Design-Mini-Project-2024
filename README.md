@@ -1,6 +1,7 @@
 # 2024 Fall Miniproject
 
 [ASSIGNMENT](./assignment/)
+[REPORT](./REPORT.md)
 
 This project uses the Raspberry Pi Pico WH (wireless, with header pins).
 
