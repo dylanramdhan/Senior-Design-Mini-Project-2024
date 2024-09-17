@@ -28,7 +28,7 @@ https://drive.google.com/file/d/1DQhKs3dD_ExZEUriKSZgzxsMsopx0taU/view?usp=shari
 
 ## Part 3: Cloud Server/Light Game
 
-
+https://github.com/dylanramdhan/Senior-Design-Mini-Project-2024/blob/main/EXERCISES/exercise_game.py
 <<<<<<< HEAD
 [code](./ex3/exercise_game.py)
 =======
