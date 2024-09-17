@@ -19,7 +19,7 @@ https://drive.google.com/file/d/1r3okbgMRo2Tm7nPTzvYmccjmaQ0IYqmr/view?usp=shari
 This video showcases the working light for exercise 1:
 https://drive.google.com/file/d/1HRNn-w4ThfHEimyEXNF2UMF7pVI0Jm61/view?usp=sharing
 ## Part 2: Playing Songs
-
+https://github.com/dylanramdhan/Senior-Design-Mini-Project-2024/blob/main/EXERCISES/harry_potter.py
 
 [code](./ex2/harry_potter.py)
 Our theme song playing video:
