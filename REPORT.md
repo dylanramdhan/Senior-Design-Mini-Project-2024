@@ -8,7 +8,7 @@ Raspberry Pi Pico that is attached to an Freenove Pico breakout board.
 ## Part 1: Light Sensor
 In this part of the assignment, we were tasked with having to  
 
-[code](./ex1)
+[code](./light.py)
 
 ## Part 2: Playing Songs
 
