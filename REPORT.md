@@ -27,6 +27,7 @@ https://drive.google.com/file/d/1DQhKs3dD_ExZEUriKSZgzxsMsopx0taU/view?usp=shari
 ## Part 3: Cloud Server/Light Game
 
 
+Our code measures how fast we can press a button when an LED turns on. It connects to our network, blinks the LED randomly for a short time, and records how quickly we respond. After a set number of attempts, it calculated your fastest, slowest, and average response times.
 
 [code](./EXERCISES/exercise_game.py)
 
