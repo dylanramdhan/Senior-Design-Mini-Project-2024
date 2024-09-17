@@ -9,10 +9,6 @@ In this part of the assignment, we were tasked with having to
 
 [code](./EXERCISES/light.py)
 
-=======
-[code](./Senior-Design-Mini-Project-2024/assignment/ex1/light.py)
-
-
 Here is a photo of our working+connected device:
 https://drive.google.com/file/d/1r3okbgMRo2Tm7nPTzvYmccjmaQ0IYqmr/view?usp=sharing
 This video showcases the working light for exercise 1:
