@@ -3,7 +3,7 @@
 
 This project uses the Raspberry Pi Pico WH (wireless, with header pins).
 
-**Final [REPORT](./REPORT.md)**<br><br>
+**Final [REPORT](./REPORT.md)**<br>
 
 Each student team must provide a USB cable that connects to their laptop and has a micro-USB connector on the other end to plug into the Pi Pico.
 The cord must have the data pins connected.
