@@ -11,7 +11,7 @@ In this part of the assignment, we were tasked with having to
 
 =======
 [code](./Senior-Design-Mini-Project-2024/assignment/ex1/light.py)
->>>>>>> 45445270e75d2ab9855ff11b57cec80df2d5bc7a
+
 
 Here is a photo of our working+connected device:
 https://drive.google.com/file/d/1r3okbgMRo2Tm7nPTzvYmccjmaQ0IYqmr/view?usp=sharing
