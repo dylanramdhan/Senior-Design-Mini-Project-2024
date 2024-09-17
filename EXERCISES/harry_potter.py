@@ -40,12 +40,10 @@ def quiet():
     speaker.duty_u16(0)
 
 
-print("Playing Harry Potter theme:")
+print("Playing Harry Potter Hedwig's theme:")
 
-# Play each note in the sequence
 for note, duration in DylanAndBerenTheme:
     print(f"Playing note {note} ({NOTE_FREQUENCIES[note]} Hz) for {duration} seconds")
     playtone(NOTE_FREQUENCIES[note], duration)
 
-# Turn off the PWM
 quiet()
