@@ -28,12 +28,10 @@ https://drive.google.com/file/d/1DQhKs3dD_ExZEUriKSZgzxsMsopx0taU/view?usp=shari
 
 ## Part 3: Cloud Server/Light Game
 
-https://github.com/dylanramdhan/Senior-Design-Mini-Project-2024/blob/main/EXERCISES/exercise_game.py
+
 <<<<<<< HEAD
-[code](./ex3/exercise_game.py)
-=======
-[code](./ex3)
->>>>>>> 45445270e75d2ab9855ff11b57cec80df2d5bc7a
+https://github.com/dylanramdhan/Senior-Design-Mini-Project-2024/blob/main/EXERCISES/exercise_game.py
+
 
 Video of us playing the game and showing the results on firebase, we named our file test.json and used my(Beren) hotspot as network:
 https://drive.google.com/file/d/1MFx335S9B9CuAMQcIkt_wACo6Ieu2QXd/view?usp=sharing
