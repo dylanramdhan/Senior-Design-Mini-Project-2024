@@ -6,7 +6,7 @@ that is attached to an Freenove Pico breakout board.
 
 ## Part 1: Light Sensor
 We uploaded the light.py code and saw the yellow light on Pi Pico board
-[code](./EXERCISES/light.py)
+[CODE](./EXERCISES/light.py)
 
 Here is a [PHOTO](https://drive.google.com/file/d/1r3okbgMRo2Tm7nPTzvYmccjmaQ0IYqmr/view?usp=sharing) of our working+connected device:
 
