@@ -25,9 +25,9 @@ Our theme song playing [video](https://drive.google.com/file/d/1DQhKs3dD_ExZEUri
 
 Our code measures how fast we can press a button when an LED turns on. It connects to our network, blinks the LED randomly for a short time, and records how quickly we respond. After a set number of attempts, it calculated your fastest, slowest, and average response times.
 
-[code](https://github.com/dylanramdhan/Senior-Design-Mini-Project-2024/blob/main/EXERCISES/exercise_game.py)
+[CODE](https://github.com/dylanramdhan/Senior-Design-Mini-Project-2024/blob/main/EXERCISES/exercise_game.py)
 
-[Video](https://drive.google.com/file/d/1MFx335S9B9CuAMQcIkt_wACo6Ieu2QXd/view?usp=sharing) of us playing the game and showing the results on firebase, we named our file test.json and used my(Beren) hotspot as network.
+[VIDEO](https://drive.google.com/file/d/1MFx335S9B9CuAMQcIkt_wACo6Ieu2QXd/view?usp=sharing) of us playing the game and showing the results on firebase, we named our file test.json and used my(Beren) hotspot as network.
 
 <p align="center">
 <img src="./docs/RTDatabase.png" width="50%">
