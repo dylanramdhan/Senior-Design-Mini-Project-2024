@@ -8,14 +8,14 @@ that is attached to an Freenove Pico breakout board.
 We uploaded the light.py code and saw the yellow light on Pi Pico board
 [code](./EXERCISES/light.py)
 
-Here is a [photo](https://drive.google.com/file/d/1r3okbgMRo2Tm7nPTzvYmccjmaQ0IYqmr/view?usp=sharing) of our working+connected device:
+Here is a [PHOTO](https://drive.google.com/file/d/1r3okbgMRo2Tm7nPTzvYmccjmaQ0IYqmr/view?usp=sharing) of our working+connected device:
 
-This [video](https://drive.google.com/file/d/1HRNn-w4ThfHEimyEXNF2UMF7pVI0Jm61/view?usp=sharing) showcases the working light for exercise 1.
+This [VIDEO](https://drive.google.com/file/d/1HRNn-w4ThfHEimyEXNF2UMF7pVI0Jm61/view?usp=sharing) showcases the working light for exercise 1.
 
 ## Part 2: Playing Songs
 Our code plays a melody using a speaker connected to a microcontroller. It defines a series of musical notes and their frequencies, along with how long each note should be played. The speaker is controlled using Pulse Width Modulation (PWM), which allows it to produce sound at different frequencies.
 
-[code](https://github.com/dylanramdhan/Senior-Design-Mini-Project-2024/blob/main/EXERCISES/harry_potter.py)
+[CODE](https://github.com/dylanramdhan/Senior-Design-Mini-Project-2024/blob/main/EXERCISES/harry_potter.py)
 
 Our theme song playing [video](https://drive.google.com/file/d/1DQhKs3dD_ExZEUriKSZgzxsMsopx0taU/view?usp=sharing)
 
