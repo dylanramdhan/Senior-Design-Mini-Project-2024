@@ -17,7 +17,7 @@ Our code plays a melody using a speaker connected to a microcontroller. It defin
 
 [CODE](https://github.com/dylanramdhan/Senior-Design-Mini-Project-2024/blob/main/EXERCISES/harry_potter.py)
 
-Our theme song playing [video](https://drive.google.com/file/d/1DQhKs3dD_ExZEUriKSZgzxsMsopx0taU/view?usp=sharing)
+Our theme song playing [VIDEO](https://drive.google.com/file/d/1DQhKs3dD_ExZEUriKSZgzxsMsopx0taU/view?usp=sharing)
 
 
 ## Part 3: Cloud Server/Light Game
