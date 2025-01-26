@@ -28,3 +28,10 @@ Our code measures how fast we can press a button when an LED turns on. It connec
 [code](https://github.com/dylanramdhan/Senior-Design-Mini-Project-2024/blob/main/EXERCISES/exercise_game.py)
 
 [Video](https://drive.google.com/file/d/1MFx335S9B9CuAMQcIkt_wACo6Ieu2QXd/view?usp=sharing) of us playing the game and showing the results on firebase, we named our file test.json and used my(Beren) hotspot as network.
+
+<p align="center">
+<img src="./docs/RTDatabase.png" width="50%">
+</p>
+<p align="center">
+Screenshot of Real-Time Database of Light Game
+</p>
