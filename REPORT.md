@@ -4,6 +4,8 @@
 In this assignment we were given the task of operating a hardware and software of a Raspberry Pi Pico 
 that is attached to an Freenove Pico breakout board.
 
+[Raspberry Pi Pico W Pinout](https://datasheets.raspberrypi.com/picow/PicoW-A4-Pinout.pdf)
+
 ## Part 1: Light Sensor
 We uploaded the light.py code and saw the yellow light on Pi Pico board
 [CODE](./EXERCISES/light.py)
