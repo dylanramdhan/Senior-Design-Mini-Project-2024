@@ -4,8 +4,6 @@
 In this assignment we were given the task of operating a hardware and software of a Raspberry Pi Pico 
 that is attached to an Freenove Pico breakout board.
 
-[Raspberry Pi Pico W Pinout](https://datasheets.raspberrypi.com/picow/PicoW-A4-Pinout.pdf)
-
 ## Part 1: Light Sensor
 We uploaded the light.py code and saw the yellow light on Pi Pico board
 [CODE](./EXERCISES/light.py)
@@ -37,3 +35,10 @@ Our code measures how fast we can press a button when an LED turns on. It connec
 <p align="center">
 Screenshot of Real-Time Database of Light Game
 </p>
+
+
+
+# Resources:
+[Raspberry Pi Pico W Pinout](https://datasheets.raspberrypi.com/picow/PicoW-A4-Pinout.pdf)
+[EC463 MiniProject](https://drive.google.com/file/d/1wl7HUHrkmtc9qk3m81S2foP_SIRLk7tv/view)
+[Cloud Connection Presentation](https://drive.google.com/file/d/1KPkVYuYnFAgJBBsztrrcUMIeO86WpVn8/view)
