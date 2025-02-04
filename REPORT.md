@@ -39,6 +39,6 @@ Screenshot of Real-Time Database of Light Game
 
 
 # Resources:
-[Raspberry Pi Pico W Pinout](https://datasheets.raspberrypi.com/picow/PicoW-A4-Pinout.pdf)
-[EC463 MiniProject](https://drive.google.com/file/d/1wl7HUHrkmtc9qk3m81S2foP_SIRLk7tv/view)
+[Raspberry Pi Pico W Pinout](https://datasheets.raspberrypi.com/picow/PicoW-A4-Pinout.pdf) <br>
+[EC463 MiniProject](https://drive.google.com/file/d/1wl7HUHrkmtc9qk3m81S2foP_SIRLk7tv/view) <br>
 [Cloud Connection Presentation](https://drive.google.com/file/d/1KPkVYuYnFAgJBBsztrrcUMIeO86WpVn8/view)
